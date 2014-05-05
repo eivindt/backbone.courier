@@ -1,5 +1,5 @@
 {
-  "name": "backbone-courier",
+  "name": "backbone-courier-eivindt",
   "description": "Easily bubble events up your view hierarchy in your Backbone.js applications.",
   "version": "0.6.1e",
   "main": "src/backbone.courier.js",
