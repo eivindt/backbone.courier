@@ -1,7 +1,7 @@
 {
-	"name": "backbone.courier.eivindt",
-	"version": "0.6.1e",
-	"homepage": "https://github.com/eivindt/backbone.courier.eivindt",
+	"name": "backbone.courier",
+	"version": "0.6.2",
+	"homepage": "https://github.com/eivindt/backbone.courier",
 	"authors": [
 		"David Beck <david@rotundasoftware.com>"
 	],
